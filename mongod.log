@@ -1,0 +1,14 @@
+2019-11-15T10:12:32.862-0600 I CONTROL  [initandlisten] MongoDB starting : pid=4144 port=1112 dbpath=./mongo 64-bit host=ukko
+2019-11-15T10:12:32.862-0600 I CONTROL  [initandlisten] db version v3.6.9
+2019-11-15T10:12:32.862-0600 I CONTROL  [initandlisten] git version: 167861a164723168adfaaa866f310cb94010428f
+2019-11-15T10:12:32.862-0600 I CONTROL  [initandlisten] OpenSSL version: OpenSSL 1.0.2n  7 Dec 2017
+2019-11-15T10:12:32.862-0600 I CONTROL  [initandlisten] allocator: tcmalloc
+2019-11-15T10:12:32.862-0600 I CONTROL  [initandlisten] modules: none
+2019-11-15T10:12:32.862-0600 I CONTROL  [initandlisten] build environment:
+2019-11-15T10:12:32.862-0600 I CONTROL  [initandlisten]     distmod: ubuntu1604
+2019-11-15T10:12:32.862-0600 I CONTROL  [initandlisten]     distarch: x86_64
+2019-11-15T10:12:32.862-0600 I CONTROL  [initandlisten]     target_arch: x86_64
+2019-11-15T10:12:32.862-0600 I CONTROL  [initandlisten] options: { config: "mongod.conf", net: { bindIp: "0.0.0.0", port: 1112 }, setParameter: { enableLocalhostAuthBypass: "false" }, storage: { dbPath: "./mongo", journal: { enabled: true } }, systemLog: { destination: "file", logAppend: true, path: "./mongod.log" } }
+2019-11-15T10:12:32.863-0600 I STORAGE  [initandlisten] exception in initAndListen: NonExistentPath: Data directory ./mongo not found., terminating
+2019-11-15T10:12:32.863-0600 I CONTROL  [initandlisten] now exiting
+2019-11-15T10:12:32.863-0600 I CONTROL  [initandlisten] shutting down with code:100

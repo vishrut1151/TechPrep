@@ -1,0 +1,28 @@
+<h3>9.Compare method and constructor?</h3>
+<p><strong>Answer:</strong><br />
+Constructor: Used to initialize the instance of a class.<br />Method: Used to perform some function or operation.</p>
+<p>Constructor: Doesn’t have a return type.<br />Method: Has a return type.</p>
+<h3>10. What is a singleton class?</h3>
+<p><strong>Answer:</strong><br />
+Singleton class limits the number of objects created for a class to one but gives the flexibility of creating more objects if the situation changes.</p>
+<h3>11. What are the steps for creating the object?</h3>
+<p><strong>Answer:</strong><br />
+An object is first declared then instantiated and at last declared. For example<br />
+Abc a= new Abc();</p>
+<h3>12. What is the different type of access modifiers?</h3>
+<p><strong>Answer:</strong><br />
+There are four type of access modifiers as given below:-<br />
+• Visible to the overall package. No modifier needed.<br />
+• Private &#8211; Visible to class only.<br />
+• Public – Visible to the world.<br />
+• Protected – Visible to package and subclass.</p>
+<h3>13.Which is the highest operator precedence in Java</h3>
+<p><strong>Answer:</strong><br />
+The operator with the highest preference is Postfix operators i.e () [].</p>
+<h3>14.What is an array?</h3>
+<p><strong>Answer:</strong><br />
+The array is a container which holds the fixed number of similar data types.</p>
+<h3>15. What is the difference between equals() and method and == operator?</h3>
+<p><strong>Answer:</strong><br />
+The equals() is a method and it matches the content of the strings whereas == is an operator and matches object or reference of the strings.</p>
+<h3>16. Is string class final?</h3>
